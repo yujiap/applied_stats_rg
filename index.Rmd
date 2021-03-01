@@ -1,0 +1,24 @@
+---
+title: "UM Applied Statistics Reading Group"
+---
+
+---
+
+## Welcome!
+
+We're a group of graduate students in the Department of Statistics at the University of Michigan interested in applications of statistics to problems of societal interest. Our reading group is meant to be a relaxed environment for discussion, clarification, and inquiry into the many challenges of deploying statistics in the real world.
+
+___
+
+## Winter 2021
+
+Focus: Applications in medicine, public policy, and the health sciences
+
+Time: Every other Tuesday, 3-4pm
+
+Presenter | Paper                                   | Extras
+----------|-----------------------------------------|-----
+Yujia               | Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program” (Abadie, Diamond and Hainmueller, 2010)
+Rob                 | Estimating causal effects of air quality regulations using principal stratification for spatially correlated multivariate intermediate outcomes (Zigler, Dominici, and Wang, 2012)
+Drew | From hype to reality: data science enabling personalized medicine (Fröhlich et al. 2018)
+

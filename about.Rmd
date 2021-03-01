@@ -1,0 +1,20 @@
+---
+title: "About Us"
+---
+
+We're a group of graduate students in the Department of Statistics at the University of Michigan interested in applications of statistics to problems of societal interest. Our reading group is meant to be a relaxed environment for all folks interested in applied statistics to discuss applied statistics!
+
+## Choosing a paper
+
+We read all sorts of things -- methodological papers, case studies, review papers, and papers in journals outside of statistics.
+
+The papers we read and discuss are generally:
+
+* Strongly motivated by an application or dataset
+* Answer a question of practical interest
+* Don't need to proposed a new statistical method
+* Don't need to come from a statistics journal
+
+## Interested in joining us?
+
+Email yujiap at umich dot edu!
