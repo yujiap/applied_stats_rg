@@ -14,11 +14,12 @@ ___
 
 Focus: Applications in medicine, public policy, and the health sciences
 
-Time: Every other Tuesday, 3-4pm  ~~Every other Friday, 3-4pm~~
+Time: Every other Tuesday, 3-4pm EST  ~~Every other Friday, 3-4pm EST~~
 
-Date |Presenter | Paper                                   | Extras
+Date |Presenter | Paper                                   | Notes
 -------|----------|-----------------------------------------|---------
 Jan 29 | Yujia               | Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program” (Abadie, Diamond and Hainmueller, 2010)
-Feb 12 | Rob                 | Estimating causal effects of air quality regulations using principal stratification for spatially correlated multivariate intermediate outcomes (Zigler, Dominici, and Wang, 2012)
-Mar 3 | Drew | From hype to reality: data science enabling personalized medicine (Fröhlich et al. 2018)
+Feb 12 | Rob                 | Estimating causal effects of air quality regulations using principal stratification for spatially correlated multivariate intermediate outcomes (Zigler, Dominici, and Wang, 2012) | 
+Mar 3 | Drew | From hype to reality: data science enabling personalized medicine (Fröhlich et al. 2018) | 
+Mar 16 | Zoe | The effect of differential victim crime reporting on predictive policing systems (Akpinar, De-Arteaga, and Chouldechova, 2021) | Time change: 3:30-4:30pm EST!
 
