@@ -10,6 +10,24 @@ We're a group of graduate students in the Department of Statistics at the Univer
 
 ___
 
+## Spring/Summer 2021
+
+Focus: Applications in medicine, public policy, and the health sciences. Additionally, inspired by the  <a href="https://rlbarter.github.io/Practical-Statistics/about/">Practical Statistics</a> group at Berkeley, we will cover methods that are commonly used in statistical applications (especially in other disciplines) but not often taught in statistics courses.
+
+Time: Every other Tuesday, 2-3pm
+
+Date |Presenter | Paper                                   | Notes
+-------|----------|-----------------------------------------|---------
+May 17 | Yujia | Mental Health Challenges of United States Healthcare Professionals During COVID-19 (Pearman et al. 2020) & A Primer on (M)AN(C)OVA
+June 1 | Laura    
+June 15 | Zoe      
+June 28 | Heather         
+July 13 | Drew            
+July 27 | Rob          
+Aug 10 | Avery        
+Aug 23 | TBD
+___
+
 ## Winter 2021
 
 Focus: Applications in medicine, public policy, and the health sciences
@@ -23,3 +41,4 @@ Feb 12 | Rob                 | Estimating causal effects of air quality regulati
 Mar 3 | Drew | From hype to reality: data science enabling personalized medicine (Fröhlich et al. 2018) | 
 Mar 16 | Zoe | The effect of differential victim crime reporting on predictive policing systems (Akpinar, De-Arteaga, and Chouldechova, 2021) | Time change: 3:30-4:30pm EST!
 Mar 30 | Yujia               | Value-Added and Student Growth Percentile Models: What Drives Differences in Estimated Classroom Effects? (Kurtz 2018)
+Apr 20 | Rob               | Bayesian Statistics for Beginners
