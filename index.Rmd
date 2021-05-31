@@ -18,8 +18,8 @@ Time: Every other Tuesday, 2-3pm
 
 Date |Presenter | Paper                                   | Notes
 -------|----------|-----------------------------------------|---------
-May 17 | Yujia | Mental Health Challenges of United States Healthcare Professionals During COVID-19 (Pearman et al. 2020) & A Primer on (M)AN(C)OVA
-June 1 | Laura    
+May 17 | Yujia | Mental Health Challenges of United States Healthcare Professionals During COVID-19 (Pearman et al. 2020) & A Primer on (M)AN(C)OVA |
+June 1 | Laura | Multilevel Modeling: A Review of Methodological Issues and Applications (Dedrick et al. 2009) |
 June 15 | Zoe      
 June 28 | Heather         
 July 13 | Drew            
