@@ -2,7 +2,7 @@
 title: "About Us"
 ---
 
-We're a group of graduate students in the Department of Statistics at the University of Michigan interested in applications of statistics to problems of societal interest. Our reading group is meant to be a relaxed environment for all folks interested in applied statistics to discuss applied statistics!
+We're a group of graduate students in the Department of Statistics at the University of Michigan interested in applications of statistics to problems of societal interest. Our reading group is meant to be a relaxed environment for all folks interested in applied statistics to discuss applied statistics! 
 
 ## Choosing a paper
 
