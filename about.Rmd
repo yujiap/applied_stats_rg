@@ -12,7 +12,7 @@ The papers we read and discuss are generally:
 
 * Strongly motivated by an application or dataset
 * Answer a question of practical interest
-* Don't need to proposed a new statistical method
+* Don't need to propose a new statistical method
 * Don't need to come from a statistics journal
 
 ## Interested in joining us?
