@@ -14,13 +14,15 @@ ___
 
 Focus: Applications in medicine, public policy, and the health sciences.
 
-Time: TBD, but will be bi-weekly
+Time: Every other Friday, 2-3pm EST
 
 Date |Presenter | Paper                                   | Notes
 -------|----------|-----------------------------------------|---------
-Oct 8 | Nora Yujia | Evaluation of a Booster Dose (Third Dose), Vaccine and Related Biological Products Advisory Committee Briefing Document | https://www.fda.gov/media/152161/download
-
-
+Oct 8 | Nora Yujia | Evaluation of a Booster Dose (Third Dose), Vaccine and Related Biological Products Advisory Committee Briefing Document | [Paper](https://www.fda.gov/media/152161/download)
+Oct 22 | Avery |     |
+Nov 5 | Drew |     |
+Nov 19 | Zoe |     |
+Dec 12 | Rob |     |
 ___
 
 ## Spring/Summer 2021
