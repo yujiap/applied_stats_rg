@@ -19,10 +19,10 @@ Time: Every other Friday, 2-3pm EST
 Date |Presenter | Paper                                   | Notes
 -------|----------|-----------------------------------------|---------
 Oct 8 | Nora Yujia | Evaluation of a Booster Dose (Third Dose), Vaccine and Related Biological Products Advisory Committee Briefing Document | [Paper](https://www.fda.gov/media/152161/download)
-Oct 22 | Avery |     |
-Nov 5 | Drew |     |
-Nov 19 | Zoe |     |
-Dec 12 | Rob |     |
+Oct 22 | Avery | Causal Inference with Two Versions of Treatment (Hasegawa et al. 2020)|
+Nov 5 | Drew | Words, words, words: how digital humanities are integrating diverse research fields to study people (Gaffield 2018)  |
+Nov 19 | Rob | Identifiability and Estimation Under the Test-negative Design With Population Controls With the Goal of Identifying Risk and Preventive Factors for SARS-CoV-2 Infection (Schnitzer et al. 2021) |
+Dec 12 | Zoe |     |
 ___
 
 ## Spring/Summer 2021
