@@ -10,6 +10,34 @@ We're a group of graduate students in the Department of Statistics at the Univer
 
 ___
 
+## Winter 2022
+
+Focus: COVID-19 research
+
+Time: Every other Friday, 1-2pm EST
+
+Date| Intro (20 min)| Discussion (40 min) |
+:----|:---------------|:---------------------
+Jan 14 | Nora: Follmann et al. | n/a (planning the schedule)  |
+Jan 28 | Avery: Golden and Mirel| Nora: Follmann et al.|
+Feb 11 | Zoe: Huang et al.| Avery: Golden and Mirel|
+Feb 25 | Rob: Barda et al.| Zoe: Huang et al.|
+Mar 11 | Drew: Chiang, Liu, Mohler| Rob: Barda et al.|
+Mar 25 | Avery: Ethics paper| Drew: Chiang, Liu, Mohler|
+Apr  8 | n/a | Avery: Ethics paper|
+
+This semester we're following a slightly different format. I
+
+List of papers:
+
+- Thompson et al. 2021:	"Effectiveness of Covid-19 Vaccines in Ambulatory and Inpatient Care Settings"
+- Huang et al. 2021: "Performance Metrics for the Comparative Analysis of Clinical Risk Prediction Models Employing Machine Learning"
+- Golden and Mirel 2021: "Enhancement of Health Surveys with Data Linkage"
+- Barda et al. 2021: "Effectiveness of a third dose of the BNT162b2 mRNA COVID-19 vaccine for preventing severe outcomes in Israel: an observational study"
+- Chiang, Liu, Mohler 2020: "Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates"
+
+___
+
 ## Fall 2021
 
 Focus: Applications in medicine, public policy, and the health sciences.
@@ -17,12 +45,12 @@ Focus: Applications in medicine, public policy, and the health sciences.
 Time: Every other Friday, 2-3pm EST
 
 Date |Presenter | Paper                                   | Notes
--------|----------|-----------------------------------------|---------
+:-----|:----------|:-----------------------------------------|:---------
 Oct 8 | Nora Yujia | Evaluation of a Booster Dose (Third Dose), Vaccine and Related Biological Products Advisory Committee Briefing Document | [Paper](https://www.fda.gov/media/152161/download)
 Oct 22 | Avery | Causal Inference with Two Versions of Treatment (Hasegawa et al. 2020)|
 Nov 5 | Drew | Words, words, words: how digital humanities are integrating diverse research fields to study people (Gaffield 2018)  |
 Nov 19 | Rob | Identifiability and Estimation Under the Test-negative Design With Population Controls With the Goal of Identifying Risk and Preventive Factors for SARS-CoV-2 Infection (Schnitzer et al. 2021) |
-Dec 12 | Zoe |     |
+Dec 12 | n/a | Planning meeting for Winter 2022   |
 ___
 
 ## Spring/Summer 2021
@@ -32,7 +60,7 @@ Focus: Applications in medicine, public policy, and the health sciences. Additio
 Time: Every other Tuesday, 2-3pm EST
 
 Date |Presenter | Paper                                   | Notes
--------|----------|-----------------------------------------|---------
+:-----|:----------|:-----------------------------------------|:---------
 May 17 | Nora Yujia | Mental Health Challenges of United States Healthcare Professionals During COVID-19 (Pearman et al. 2020) & A Primer on (M)AN(C)OVA |
 June 1 | Laura | Multilevel Modeling: A Review of Methodological Issues and Applications (Dedrick et al. 2009) |
 June 15 | Zoe | Multilevel and spatial analyses of childhood malnutrition in Uganda: examining individual and contextual factors (Amegbor et al. 2020) |
@@ -50,7 +78,7 @@ Focus: Applications in medicine, public policy, and the health sciences
 Time: Every other Tuesday, 3-4pm EST  ~~Every other Friday, 3-4pm EST~~
 
 Date |Presenter | Paper                                   | Notes
--------|----------|-----------------------------------------|---------
+:-----|:----------|:-----------------------------------------|:---------
 Jan 29 | Nora Yujia               | Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program” (Abadie, Diamond and Hainmueller, 2010)
 Feb 12 | Rob                 | Estimating causal effects of air quality regulations using principal stratification for spatially correlated multivariate intermediate outcomes (Zigler, Dominici, and Wang, 2012) | 
 Mar 3 | Drew | From hype to reality: data science enabling personalized medicine (Fröhlich et al. 2018) | 
